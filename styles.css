@@ -1,0 +1,132 @@
+.nikki {
+    background-color: rgb(9, 236, 40);
+    color: red;
+}
+.jags {
+    background-color: teal;
+}
+
+#nikki3 {
+    background-color: blue;
+}
+
+.nikitha123 {
+    margin: 50px;
+}
+
+div > h3 {
+    background-color: chartreuse;
+}
+.header {
+    
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+    height: 100px;
+    padding-top: 25px;
+    
+}
+/* h1 {
+   visibility: hidden; // element will be present but hidden frm the naked eye and occupies some space on the web page
+   display: none; // element will be removed completely from web page and no spce will be occupied for that element
+} */
+div > h4 {
+    background-color: crimson;
+}
+
+/* .btn-danger {
+    width: 300px;
+} */
+
+/* .btn-danger:hover {
+    background-color: green !important;
+} */
+
+/* .btn-nikki1 {
+    display: flex;
+    justify-content: center;
+    margin: 150px;
+} */
+.btn-nikki{
+    width: 300px;
+    height: 60px;
+    font-size: 30px;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    border: none;
+    padding-bottom: 5px;
+    cursor: pointer;  
+}
+
+.btn-nikki:focus {
+    border: 3px solid black;
+}
+
+.btn-nikki:hover {
+    background-color: green;
+}
+
+.btn-nikki:active {
+    background-color: orange;
+}
+
+
+#nikki1 {
+    background-color: brown;
+}
+/* h3::first-letter {
+    background-color: rgb(45, 255, 3);
+    color: white;
+    font-size: 30px;
+} */
+.hai {
+    color: blueviolet;
+}
+/* button{ */
+    /* background-color: green; */
+    /* color: white;
+    border-radius: 10px;
+    border: none;
+    /* width: 150px; */
+    /* height: 40px; */
+    /* font-size: 20px;
+    padding: 20px;
+    margin: 150px;
+    border: 2px solid black;
+    font-family: 'Times New Roman', Times, serif;
+    transition: width 0.3s;
+    animation-name: nikitha;
+  animation-duration: 10s; */
+/* } */ */
+/* @keyframes nikitha {
+    from {width: 150px; background-color: red; border-radius: 10px}
+    to {width: 300px; background-color: green; border-radius: 40px;}
+} */
+
+.but {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(240, 13, 13);
+    border-radius: 60px;
+    /* border: 3px solid black; */
+}
+
+/* button:hover {
+    background-color:  rgba(211, 52, 4, 0.842);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    box-shadow: 2px 2px black;
+    width: 300px;
+} */
+
+img {
+    width: 250px;
+    height: 200px;
+    border-radius: 50px;
+    box-shadow: 3px 3px green;
+    
+}
